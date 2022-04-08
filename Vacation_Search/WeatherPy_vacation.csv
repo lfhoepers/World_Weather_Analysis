@@ -1,0 +1,58 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+16,Avarua,CK,30.03,few clouds,-21.2078,-159.775,Paradise Inn
+35,Ugoofaaru,MV,28.82,broken clouds,5.6667,73.0,Ungoofaaru Inn
+59,Noumea,NC,29.99,light rain,-22.2763,166.4572,Hôtel Le Lagon
+74,Vanimo,PG,28.63,overcast clouds,-2.6741,141.3028,Vahmoneh Lodge Vanimo
+96,Alofi,NU,28.94,broken clouds,-19.0595,-169.9187,Taloa Heights
+103,Vaini,TO,28.09,broken clouds,-21.2,-175.2,Keleti Beach Resort
+113,Mandiana,GN,30.01,broken clouds,10.6333,-8.6833,Motels rouzo
+116,Neiafu,TO,30.38,scattered clouds,-18.65,-173.9833,Mystic Sands Beachfront Accommodation
+121,Kahului,US,29.01,few clouds,20.8947,-156.47,Maui Seaside Hotel
+128,Butte,US,31.12,broken clouds,39.6499,-121.5677,Meadowbrook Oaks Mobile Home Park
+139,Kudahuvadhoo,MV,28.5,broken clouds,2.6708,72.8944,Niyama Private Islands Maldives
+149,Belize,BZ,29.18,few clouds,17.25,-88.75,Villa San Juan
+188,Cabo San Lucas,MX,29.78,clear sky,22.8909,-109.9124,Hotel Tesoro Los Cabos
+191,Aswan,EG,30.61,clear sky,24.0934,32.907,Nuba Nile
+212,Bhuj,IN,28.58,broken clouds,23.2667,69.6667,Regenta Resort Bhuj
+213,Nhulunbuy,AU,30.34,few clouds,-12.2333,136.7667,East Arnhem Real Estate
+220,Samarai,PG,28.61,heavy intensity rain,-10.6167,150.6667,Nuli Sapi
+243,Lorengau,PG,28.14,overcast clouds,-2.0226,147.2712,Lorengau Harbourside Hotel
+249,Pucallpa,PE,29.02,few clouds,-8.3791,-74.5539,Hotel Sol de Oriente - Pucallpa
+251,Kita,ML,30.93,scattered clouds,13.0349,-9.4895,Hôtel Chat Rouge
+256,Moussoro,TD,30.88,clear sky,13.6408,16.4901,Hôtel Salama
+273,Lodwar,KE,29.0,broken clouds,3.1191,35.5973,Solmar Gracious Hotel
+287,Ouahigouya,BF,32.74,broken clouds,13.5828,-2.4216,Hotel Liberte
+332,Tandalti,SD,29.19,few clouds,13.0167,31.8667,منزل : الهادي محمد مساعد
+338,Honiara,SB,28.32,overcast clouds,-9.4333,159.95,Heritage Park Hotel
+355,Markala,ML,32.38,scattered clouds,13.7021,-6.0659,Hôtel Igor
+372,Half Moon Bay,US,34.88,broken clouds,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
+395,Sur,OM,29.35,clear sky,22.5667,59.5289,Sur Plaza Hotel
+396,Henderson,US,30.65,clear sky,36.0397,-114.9819,Hawthorn Suites By Wyndham Las Vegas/Henderson
+399,Puerto Escondido,MX,28.21,scattered clouds,15.85,-97.0667,Aldea del Bazar Hotel and Spa
+406,Diffa,NE,30.84,few clouds,13.3154,12.6113,ProDAF/Diffa
+410,Boa Vista,BR,28.2,scattered clouds,2.8197,-60.6733,Aipana Plaza Hotel
+433,Lompoc,US,34.32,clear sky,34.6391,-120.4579,"Holiday Inn Express Lompoc, an IHG Hotel"
+435,Acaponeta,MX,28.6,scattered clouds,22.4964,-105.3594,Hotel Casa Blanca
+436,Hostotipaquillo,MX,29.47,scattered clouds,21.0667,-104.0667,Departamento Luna
+454,Norsup,VU,29.15,overcast clouds,-16.0667,167.3833,Nabelchel Bungalows
+465,San Andres,CO,28.01,scattered clouds,12.5847,-81.7006,Hotel Arena Blanca
+481,Mareeba,AU,28.58,broken clouds,-17.0,145.4333,Trinity Plains Tourist Park
+486,San Jose,US,34.86,broken clouds,37.3394,-121.895,The Westin San Jose
+488,Kattivakkam,IN,29.05,broken clouds,13.2167,80.3167,Euronova Freezer
+489,Alyangula,AU,29.64,overcast clouds,-13.8483,136.4192,Groote Eylandt Lodge
+504,Pouebo,NC,28.09,overcast clouds,-20.4,164.5667,RIVÂT LODGE
+525,Auki,SB,29.28,overcast clouds,-8.7676,160.7034,Auki Motel
+555,Ambon,ID,32.08,scattered clouds,-3.6954,128.1814,Swiss-Belhotel Ambon
+559,Miramar,US,28.35,clear sky,25.9873,-80.2323,Stadium Hotel
+562,Rio Hondo,GT,30.21,broken clouds,15.0667,-89.5833,Hotel Rio
+580,Kirakira,SB,28.41,overcast clouds,-10.4544,161.9205,SanBiz Lodge
+594,Tougan,BF,34.32,overcast clouds,13.0667,-3.0667,Hôtel SMAK
+597,Kulhudhuffushi,MV,28.73,broken clouds,6.6221,73.07,Haajy Guest House 1
+608,Dhidhdhoo,MV,28.72,broken clouds,6.8833,73.1,Dhidhoo beach
+643,Wukari,NG,28.04,broken clouds,7.85,9.7833,Elimtop
+664,North Highlands,US,32.14,clear sky,38.6857,-121.3722,Super 8 by Wyndham Sacramento North
+671,Maumere,ID,28.04,light rain,-8.6199,122.2111,Sylvia Hotel
+672,Sarangani,PH,28.07,overcast clouds,5.4033,125.4636,Ballistic Islet
+677,Banamba,ML,30.64,few clouds,13.55,-7.45,Kassela de Banamba
+689,Voh,NC,28.84,overcast clouds,-20.9667,164.7,Le gîte du Koniambo
+695,Kolokani,ML,29.85,few clouds,13.5728,-8.0339,Lycee Famolo Coulibalibali De Kolokani
