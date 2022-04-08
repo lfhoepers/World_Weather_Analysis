@@ -2,7 +2,7 @@
 
 ## Please see all the 3 sections of the Module 6 Challenge
 
-
+I have changed the metric to Celcius, just to make a little bit better to see.
 
 **Deliverable 1: Retrieve Weather Data**
 
